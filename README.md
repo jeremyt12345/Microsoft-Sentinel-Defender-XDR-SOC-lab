@@ -41,3 +41,6 @@ Next up is Bastions
 <img width="1709" height="883" alt="image" src="https://github.com/user-attachments/assets/8a2a2024-3605-4db8-a33c-e06a5c6a74b2" />
 
 
+Last part for the day is to setup my Log Analytics Workspace
+
+<img width="1911" height="925" alt="image" src="https://github.com/user-attachments/assets/6693dcfa-9676-4d28-8dda-481377a68bee" />
