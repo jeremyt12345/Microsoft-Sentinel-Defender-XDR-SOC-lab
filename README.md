@@ -25,3 +25,19 @@ Lastly building a subnet for the Azure Bastion
 <img width="1908" height="901" alt="image" src="https://github.com/user-attachments/assets/aaf70a32-d6a8-4d82-9dda-f5004798362c" />
 
 
+Now we want to create a Network Security Group
+
+<img width="970" height="105" alt="image" src="https://github.com/user-attachments/assets/faaff200-9dd8-4cd5-b403-94287e78dfda" />
+
+
+<img width="1865" height="859" alt="image" src="https://github.com/user-attachments/assets/16b9e28c-93b3-4a3f-8f2d-fa3d86f17aa6" />
+
+
+Now within that NSG Im associating the subnets to it.
+
+<img width="1890" height="963" alt="image" src="https://github.com/user-attachments/assets/9cc45d43-cf58-4c26-92a3-9b8fd74e0514" />
+
+Next up is Bastions
+<img width="1709" height="883" alt="image" src="https://github.com/user-attachments/assets/8a2a2024-3605-4db8-a33c-e06a5c6a74b2" />
+
+
