@@ -44,3 +44,13 @@ Next up is Bastions
 Last part for the day is to setup my Log Analytics Workspace
 
 <img width="1911" height="925" alt="image" src="https://github.com/user-attachments/assets/6693dcfa-9676-4d28-8dda-481377a68bee" />
+
+
+Time to add Microsoft Sentinel
+
+<img width="1708" height="896" alt="image" src="https://github.com/user-attachments/assets/9df1abdd-875a-4d8c-a3fe-092a414689b1" />
+
+After adding Sentinel I then have to add Microsoft Defender XDR
+
+<img width="1912" height="948" alt="image" src="https://github.com/user-attachments/assets/e9082159-6cdb-45a1-a628-099e71e3de49" />
+
